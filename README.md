@@ -3,6 +3,8 @@
 Salah satu tahap dari teknik pengelola data dalam bidang _data scientists_ adalah melakukan persiapan data dengan cara melakukan _data cleaning dan data wrangling_, data cleaning ada pemrosesan data oleh seorang _data scientists_ dengan cara melakukan normalisasi raw data dari sumber data seperti database, data hasil scraping dan lain-lain sehingga menghindari terjadinya kesalahan analisis selanjutnya. Proses yang dilakukan saat dilakukan data cleaning antara lain memfilter data null atau kosong, menghapus outlier, mengelola data yang inkonsisten dan menghapus data duplicate dari data yang akan di analisis.
 Untuk proses _data wrangling_ sendiri adalah proses mengatur ulang data menjadi bentuk yang lebih terstruktur sehingga sesuai dengan permasalahan yang akan di eksplorasi oleh seorang _data scientists_, proses ini mencakup melakukan agregasi data, manipulasi data dan melakukan transformasi waktu. 
 
+## link easy report: https://github.com/DwiCahyanto/online-marketplace-data-processing-/blob/97e5ebef83d89cd812844f1fab10ef9a5c5ddac2/online-marketplace-data-processing.pdf
+
 ### Dataset:
 **1.	Olist customers**
 -	customer_id :  nilai unik yang dipakai dalam dataset untuk menghubungkan ke dataset yang lain.
